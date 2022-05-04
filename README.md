@@ -1,6 +1,7 @@
 # Moodify
 
-#### Moodify is a Spotify clone developed by Alex Smaldone, Joan Buck, Katerina Kreibich and Sai Byri. All content is for private, non-commercial and non-profit use.
+#### Moodify is a Spotify clone developed by Alex Smaldone, Joan Buck, Katerina Kreibich and Sai Byri. 
+Search for your favorite music, build playlists to match your moods, find more music through your friends' profiles, and play music throughout the application!
 
 #### Checkout out our clone at the live site: [Moodify](https://app-moodify.herokuapp.com/)
 
